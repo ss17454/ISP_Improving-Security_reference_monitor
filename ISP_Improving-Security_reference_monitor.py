@@ -1,5 +1,5 @@
 """
-Submission by Sai Likhith
+Submission by Srushti Shinde
 ss17454@nyu.edu
 This security layer inadequately handles A/B storage for files in RepyV2.
 
